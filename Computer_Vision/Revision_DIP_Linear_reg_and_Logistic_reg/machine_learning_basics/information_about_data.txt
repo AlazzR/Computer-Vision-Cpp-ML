@@ -1,0 +1,6 @@
+#samples: 10000
+true_sigma: 5
+Number of parameter without b0 1
+intercept: 3
+Parameters: 
+b1 -3.5

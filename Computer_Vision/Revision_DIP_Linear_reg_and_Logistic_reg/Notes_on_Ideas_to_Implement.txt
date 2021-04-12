@@ -1,0 +1,33 @@
+/*
+	Disclaimer:-
+		These notes are here to remind me of things that I might need to do projects on. Hence, there is no point for you ---who is reading this ---  to continue with reading these notes because they will appear to you as scribbles.
+*/	
+
+* Spatial Filtering projects:-
+	1) Scaling intensity to be in a specific range [umin, umax] 									(done)
+	2) Using kernels and the differences between convolution and correlation.						(done) 
+ 	3) Standarize the intensity value to be of mean 0 and var 1.									
+	4) Hiostogram equalization as a preprocessing step. 											(done)
+	4-a)Use Box, gaussian kernel.																	(done only Gaussian)
+	5) Using sobel operator(don't forget to rotate it) to approximate first derivative which estimate edge locations. Also, don't forget to scale the intensity to be in [0, 255] because sum of kernel is 0.																		   (done)		
+	6) Do the laplacian kernel( symmetric kernel no rotation by 180deg).							(done)
+	6-a) Don't forget to show the sharpening effect on the imagei.									(done)
+	7) Histogram equlaization, show the histogram before and after the equalization.				(done)
+
+
+* Machine Learning Algorithms:
+	* Linear regression with Eigen and torch														(done)
+	* Logistic regression with Eigen and torch
+
+
+* Frequency Filtering projects:-
+	1) Usef 3D-DFT to find magnitude and phase ( don't forget to pad and to shift the frequency response to be centered at (P/2, Q/2). Use log10 to show the frequency response.
+
+* Image transformation:-
+	1)  Reflection and scaling(i.e zooming in and zooming out).
+	2) Rotation.
+	3) Translation.
+	4) Affine transformation.
+
+
+
