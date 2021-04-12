@@ -4,13 +4,13 @@
 This repository will contain two projects that I am currently working on, in order to enhance my capabilities and to prevent my personal development from stagnating due to my current situation of unemployment. The two projects that I worked on in this repository are computer vision with emphasis on machine learning with computer vision using C++, and machine learning sub-projects on data that I find in Kaggle and I will incorporate some of the time series analysis in this project.
 
 The computer vision project will focus mainly on machine learning application with incorporating some of the deep learning networks using PyTorch API for C++. Also, I will implement some of the image processing tools, geometric transformation, camera calibration, multiple view geometry analysis and etc. Some of these implementations will be from scratch and these will be marked by (S) and some wouldn't be from scratch and these willn't be marked. For this project I will utilize the following books:-
-### Computer Vision Books:-
+#### Computer Vision Books:-
   * Computer Vision: Models, Learning and Inference by Simon J. Prince
   * Concise Computer Vision: an Introduction into Theory and Algorithms by Richard Klette.
   * Digital Image Processing by Rafeal Gonzalez and Richard Woods.
 
 The second project will focus mainly on data science using conventional machine learning algorithms and the good old statistical analysis, and I will incorporate some time series analysis projects to ensure that I keep my skills brushed up. I will mostly deal with data that I can find in Kaggle or in UCI Machine Learning Repository. I willn't implement anything from scratch, hence, I will be able to use the full power of whatever package that I found on the internet. This project will mainly focus on the following books:-
-### Machine Learning and Time Series Analysis Books:-
+#### Machine Learning and Time Series Analysis Books:-
   * Pattern Recognition and Machine Learning by Christopher Bishop.
   * Time Series Analysis and its Applications with R Examples by Robert Shumway and David Stoffer
 
