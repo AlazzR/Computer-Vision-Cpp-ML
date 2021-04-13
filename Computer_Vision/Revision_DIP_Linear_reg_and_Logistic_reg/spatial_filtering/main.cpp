@@ -3,6 +3,7 @@
 #include"histogram_utils.hpp"
 #include"smoothing.hpp"
 #include"sharpening.hpp"
+#include"blob_detection_using_LoG.hpp"
 
 int main(int argc, char* argv[])
 {
@@ -33,10 +34,16 @@ int main(int argc, char* argv[])
         //smoothing_image_with_gaussian(img_5, "filtering_LPF_with_3.5", 1.0f, 3.5f, -1);
 
     /* Sharpening Kernels (HPF) */
-        const cv::Mat img_6 = cv::imread("../datasets/blurry_moon.tif", CV_8UC1);
-        sharpening_image(img_6, "blurred_moon");
+        //const cv::Mat img_6 = cv::imread("../datasets/blurry_moon.tif", CV_8UC1);
+        //sharpening_image(img_6, "blurred_moon");
         //cv::imshow("original_image", img_6);
         //cv::waitKey(0);
+    /* BLOB DETECTION USING LoG */
+        const cv::Mat img_7 = cv::imread("../datasets/cleaning.jpg", CV_8UC3);
+        //cv::imshow("original image", img_7);
+        //cv::waitKey(0);
+        //creating_LoF(0.8333f);
+        blob_detector(img_7, 0.8333f, 1.3f, 7, 190.0f, 11);
         
 
     return 0;

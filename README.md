@@ -23,6 +23,7 @@ The second project will focus mainly on data science using conventional machine 
        * Histogram plotting and Histogram equalization(S)
        * Linear regression using Eigen3 only(S)
        * Softmax regression using Eigen3 only(S)
+       * Blob detection using LoG(S)
 
 ## Machine Learning and Time Series Analysis
 
