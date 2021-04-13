@@ -13,11 +13,13 @@
 	6) Do the laplacian kernel( symmetric kernel no rotation by 180deg).							(done)
 	6-a) Don't forget to show the sharpening effect on the imagei.									(done)
 	7) Histogram equlaization, show the histogram before and after the equalization.				(done)
+	8) Blob detection using LoG 											(done)
 
 
 * Machine Learning Algorithms:
-	* Linear regression with Eigen and torch														(done)
-	* Logistic regression with Eigen and torch
+	* Linear regression with Eigen 														(done)
+	* Logistic regression with Eigen
+	* Softmax regression with Eigen														(done)
 
 
 * Frequency Filtering projects:-
