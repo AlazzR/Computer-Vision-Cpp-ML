@@ -26,6 +26,8 @@ The second project will focus mainly on data science using conventional machine 
        * Blob detection using LoG(S)
 
 ## Machine Learning and Time Series Analysis
+ * **IRIS Dataset Classification**
+     * Softmax Regression with data transformation, and visualization using Sklearn, Pandas and Matplotlib
 
 
 **Packages used for this Repository**
