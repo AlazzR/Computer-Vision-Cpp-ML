@@ -28,6 +28,9 @@ The second project will focus mainly on data science using conventional machine 
 ## Machine Learning and Time Series Analysis
  * **IRIS Dataset Classification**
      * Softmax Regression with data transformation, and visualization using Sklearn, Pandas, PyTorch and Matplotlib
+ 
+ * **LeNet-5 For Single Digit Classification**
+     * Using PyTorch and OpenCV to experiment with the LeNet-5
 
 
 **Packages used for this Repository**
