@@ -24,6 +24,10 @@ The second project will focus mainly on data science using conventional machine 
        * Linear regression using Eigen3 only(S)
        * Softmax regression using Eigen3 only(S)
        * Blob detection using LoG(S)
+       
+  * **OpenCV_miniprojects**
+       * Feature descriptors(SIFT, FAST, BRISK, ORB, AKAZE) and matching (BF, FLANN, knn)
+       * Using Logistic regression and SVM to classify if the person have a diabetes or not
 
 ## Machine Learning and Time Series Analysis
  * **IRIS Dataset Classification**
@@ -46,3 +50,4 @@ The second project will focus mainly on data science using conventional machine 
     * Eigen3==3.3.9
     * PyTorch(C++ API)==1.8.0
     * CMAKE==3.16.3
+    * dlib=19.21
