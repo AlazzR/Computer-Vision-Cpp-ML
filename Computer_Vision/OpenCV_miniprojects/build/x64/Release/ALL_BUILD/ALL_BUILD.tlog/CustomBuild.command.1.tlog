@@ -1,0 +1,10 @@
+^C:\USERS\RASHE\DESKTOP\MACHINE_LEARNING_AND_BAYESIAN_ANALYSIS\COMPUTER_VISION_WITH_CPP\OPENCV_MINIPROJECTS\CMAKELISTS.TXT
+setlocal
+C:\Users\rashe\Downloads\cmake-3.18.2-win64-x64\bin\cmake.exe -SC:/Users/rashe/Desktop/Machine_Learning_and_Bayesian_Analysis/Computer_Vision_with_Cpp/OpenCV_miniprojects -BC:/Users/rashe/Desktop/Machine_Learning_and_Bayesian_Analysis/Computer_Vision_with_Cpp/OpenCV_miniprojects/build --check-stamp-file C:/Users/rashe/Desktop/Machine_Learning_and_Bayesian_Analysis/Computer_Vision_with_Cpp/OpenCV_miniprojects/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

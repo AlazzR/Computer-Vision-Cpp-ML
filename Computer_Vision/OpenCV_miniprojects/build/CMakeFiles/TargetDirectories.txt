@@ -1,0 +1,3 @@
+C:/Users/rashe/Desktop/Machine_Learning_and_Bayesian_Analysis/Computer_Vision_with_Cpp/OpenCV_miniprojects/build/CMakeFiles/mini-projects.dir
+C:/Users/rashe/Desktop/Machine_Learning_and_Bayesian_Analysis/Computer_Vision_with_Cpp/OpenCV_miniprojects/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/rashe/Desktop/Machine_Learning_and_Bayesian_Analysis/Computer_Vision_with_Cpp/OpenCV_miniprojects/build/CMakeFiles/ZERO_CHECK.dir

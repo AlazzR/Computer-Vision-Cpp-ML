@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\rashe\Desktop\Machine_Learning_and_Bayesian_Analysis\Computer_Vision_with_Cpp\OpenCV_miniprojects\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\rashe\Desktop\Machine_Learning_and_Bayesian_Analysis\Computer_Vision_with_Cpp\OpenCV_miniprojects\src\Feature_Extraction_and_Matching.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\rashe\Desktop\Machine_Learning_and_Bayesian_Analysis\Computer_Vision_with_Cpp\OpenCV_miniprojects\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F3033BE6-9863-3CF2-B6BC-8A3F62931F88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{36F085E2-946D-3631-903A-D49725DC6D1A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
