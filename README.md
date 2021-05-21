@@ -17,7 +17,7 @@ The second project will focus mainly on data science using conventional machine 
 
 --------------------------------------------------------------------------------------------------------
 ## Computer Vision
-   * **Revision_DIP_Linear_reg_and_Logistic_reg**
+   * **Revision_DIP_Linear_reg_and_Softmax_reg**
        * Image smoothing kernels in spatial domain(S)
        * Image sharpening kernels in spatial domain(S)
        * Histogram plotting and Histogram equalization(S)
@@ -28,6 +28,12 @@ The second project will focus mainly on data science using conventional machine 
   * **OpenCV_miniprojects**
        * Feature descriptors(SIFT, FAST, BRISK, ORB, AKAZE) and matching (BF, FLANN, knn)
        * Using Logistic regression and SVM to classify if the person have a diabetes or not
+  
+  * **Cats_vs_Dogs_Project**
+       * Feature extraction and description using SIFT
+       * Finding Clusters within the feature space using K-means
+       * Constructing the Vocabulary list for the Bag of Visual Words
+       * Classification using SVM and Logistic Regression
 
 ## Machine Learning and Time Series Analysis
  * **IRIS Dataset Classification**
