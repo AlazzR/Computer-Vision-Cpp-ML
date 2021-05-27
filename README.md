@@ -34,6 +34,7 @@ The second project will focus mainly on data science using conventional machine 
        * Finding Clusters within the feature space using K-means
        * Constructing the Vocabulary list for the Bag of Visual Words
        * Classification using SVM and Logistic Regression
+       * VGG16 with Transfer learning using PyTorch
 
 ## Machine Learning and Time Series Analysis
  * **IRIS Dataset Classification**
